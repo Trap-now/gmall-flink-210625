@@ -1,4 +1,4 @@
-package com.atguigu.app.fun;
+package com.atguigu.app.func;
 
 import com.alibaba.fastjson.JSONObject;
 import com.alibaba.ververica.cdc.debezium.DebeziumDeserializationSchema;
